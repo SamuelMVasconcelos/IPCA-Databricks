@@ -68,7 +68,8 @@ Desenvolver um **pipeline de dados** automatizado para processar e analisar o **
    
  - Seleção de Ano: Possibilita a escolha de um ano específico para análise detalhada.
 
-<img width="1380" height="803" alt="{C9C6F9ED-4168-40C4-827A-A8B8A744F18B}" src="https://github.com/user-attachments/assets/55ace885-dea1-4cf2-b73e-0eeba0b88cf8" />
+<img width="1374" height="796" alt="{194232F7-4DF9-4984-B978-561BD1B2A2FB}" src="https://github.com/user-attachments/assets/1190169b-183c-4a4d-b7ac-ee32f6085a4b" />
+
 
 
 
